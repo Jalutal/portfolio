@@ -1,0 +1,34 @@
+body {
+    background-color: bisque;
+}
+
+img {
+    border-radius: 25% 10%;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+section {
+    background-color: rgb(73, 202, 90);
+    margin: auto;
+    width: 45%;
+    text-align: center;
+}
+
+ul {
+    text-align: end;
+    list-style-type:none;
+}
+
+footer {
+    background-color: rgb(32, 190, 71);
+    margin: auto;
+    width: 45%;
+    text-align: center;
+}
+
+#github {
+    width: 10%;
+}
